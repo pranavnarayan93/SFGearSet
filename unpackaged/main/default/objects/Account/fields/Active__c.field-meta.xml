@@ -19,6 +19,11 @@
                 <default>false</default>
                 <label>Yes</label>
             </value>
+            <value>
+                <fullName>Intermediate</fullName>
+                <default>false</default>
+                <label>Intermediate</label>
+            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
